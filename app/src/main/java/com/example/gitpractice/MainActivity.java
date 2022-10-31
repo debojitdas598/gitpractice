@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         Button bt;
         Button two;
-    }
+        int mes;
+        int bruh;
+        System.out.println("ay");
+                    }
 }
