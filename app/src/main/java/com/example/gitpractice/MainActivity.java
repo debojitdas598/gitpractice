@@ -16,8 +16,6 @@ public class MainActivity extends AppCompatActivity {
         int mes;
         int bruh;
             System.out.println();
-            System.out.println();
-            System.out.println();
-            System.out.println();
+            
                     }
 }
