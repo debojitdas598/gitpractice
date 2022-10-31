@@ -1,4 +1,6 @@
 package com.example.gitpractice;
 
-public class newww {
+public class new2 {
+
+    int next;
 }
